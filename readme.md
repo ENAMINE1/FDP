@@ -1,10 +1,10 @@
-# 📌 **UPI Transaction Allocation Under Capacity Constraints**
+# **UPI Transaction Allocation Under Capacity Constraints**
 
 *A study on reducing duopoly, improving fairness, and minimizing user burden in India’s UPI ecosystem.*
 
 ---
 
-## 📖 **Overview**
+## **Overview**
 
 This repository contains the code, algorithms, and experimental results associated with our research on **load-balancing UPI transactions across multiple apps** under capacity limits imposed by the National Payments Corporation of India (NPCI).
 
@@ -14,7 +14,7 @@ This project models the problem as a **Minimum Edge Activation Flow (MEAF)** tas
 
 ---
 
-## 🚀 **Key Contributions**
+## **Key Contributions**
 
 ### 🔹 1. **Problem Modeling**
 
@@ -46,7 +46,7 @@ Two efficient heuristics were developed and tested:
 
 ---
 
-## 📊 **Experimental Insights**
+## **Experimental Insights**
 
 * Evaluated on **100M transactions** and **1.2M users** (semi-synthetic dataset).
 * As app capacity increases:
@@ -65,7 +65,7 @@ Two efficient heuristics were developed and tested:
 
 ---
 
-## 🧪 **Dataset Generation**
+## **Dataset Generation**
 
 A semi-synthetic dataset was created using:
 
@@ -76,22 +76,8 @@ A semi-synthetic dataset was created using:
 
 ---
 
-## 🧰 **Technologies Used**
 
-* Python (NumPy, Pandas, Matplotlib)
-* PuLP / Gurobi for ILP & LP modeling
-* LaTeX (ACM template)
-
----
-
-## 🤝 **Contributions**
-
-Contributions, pull requests, and suggestions are welcome!
-Feel free to open an issue if you'd like to improve or extend the algorithms.
-
----
-
-## 📬 **Contact**
+## **Contact**
 
 For questions or collaboration opportunities, please reach out:
 
